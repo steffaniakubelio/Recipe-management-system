@@ -1,4 +1,4 @@
-user Classes and Characteristics : 
+User Classes and Characteristics : 
          The Recipe Management System caters to different types of users, each with their own set of privileges and functionalities. An administrator is responsible for managing the overall system and user accounts. A registered user is a regular user who can create, manage, and share their recipes. A guest user is a visitor who can browse the system without logging in.
         The features that are available to a registered user are:- 
 	Creating, editing, and deleting their own recipes
@@ -56,4 +56,5 @@ Dependencies:
 •	The system should generate and store general reports.
 •	Information about all recipes and ingredients must be stored in a database accessible by the Recipe Management System.
 •	Any updates or changes regarding recipes and ingredients are recorded in the database, and the entered data should be accurate.
-•	It's important to ensure that the Recipe Management System is designed to meet the unique needs of managing recipes and ingredients, providing a seamless and efficient experience for users. Regular updates and maintenance should be carried out to keep the system running smoothly.
+•	It's important to ensure that the Recipe Management System is designed to meet the unique needs of managing recipes and ingredients, providing a seamless and efficient experience for users. Regular 
+        updates and maintenance should be carried out to keep the system running smoothly.
